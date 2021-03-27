@@ -16,7 +16,7 @@
   width: 100%;
 }
 
-.aaa .more_inf {
+.aaa .more-inf {
   font-family: fantasy, cursive;
 }
 
@@ -170,11 +170,11 @@
   display: none;
 }
 
-.tasks-list .tasks-list__item.editMode .text-input {
+.tasks-list .tasks-list__item.edit-mode .text-input {
   display: inline-block;
   width: 224px;
 }
 
-.tasks-list .tasks-list__item.editMode .label {
+.tasks-list .tasks-list__item.edit-mode .label {
   display: none;
 }
